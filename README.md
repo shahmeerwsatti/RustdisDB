@@ -1,2 +1,2 @@
-# RustdisDB
-The free, open source alternative to Redis, rewritten in Rust to be efficient, scalable, performant, and secure.
+<h1> RustdisDB </h1>
+<p> The scalable, high performance, free, and open source alternative to Redis. </p>
